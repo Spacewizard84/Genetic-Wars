@@ -1,0 +1,5 @@
+1. Download the zip 
+2. Extract the zip
+3. Open the folder with a text editor that has a terminal output and input eg Visual Code Studio you can just double click on the files because it will run but close when finished so
+so you can't get a taste of the crunchy data. 
+4.Do what you want with it. 
